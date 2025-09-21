@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @mackTC, a developer from italy
-- 👀 I’m interested in full-stack development and desktop development
-- 🌱 I’m currently learning C#, python.
-- 💞️ I’m currenty not looking to collaborate.
-- 📫 You can reach me through my twitter @MackTheCoder
+
